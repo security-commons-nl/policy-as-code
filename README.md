@@ -42,8 +42,8 @@ Kern, in lijn met de andere Commons-tools:
 
 ## Waar het aan raakt
 Dit staat niet los van wat er al is. `iamscan`, `blast-radius` en `security-posture-tool` produceren
-juist het soort feitelijke gegevens waar een policy-regel tegen kan toetsen; `grc-platform` en
-`procescheck` beheren de normen en processen. Policy-as-code is de laag ertussen: de norm als code die
+juist het soort feitelijke gegevens waar een policy-regel tegen kan toetsen; `procescheck` legt de
+processen en hun classificatie vast. Policy-as-code is de laag ertussen: de norm als code die
 de feiten toetst.
 
 ## Denkrichtingen (nog open)
