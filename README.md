@@ -53,6 +53,13 @@ de feiten toetst.
   hele kader.
 - Hoe koppel je een regel aan het bewijs dat de bestaande scan-tools al opleveren?
 
+## Eerste uitwerking
+
+[applicatiecheck](https://github.com/security-commons-nl/applicatiecheck) is de eerste concrete uitwerking
+van de tweede denkrichting: één kader (BIO2), één eenheid (een kritische applicatie), regels als leesbare
+data over een configuratie-export en een logsample. Wat daar werkt, komt hier terug als patroon; wat daar
+knelt, is hier een ontwerpvraag.
+
 ## Meedenken
 Ideeën, een use-case of ervaring met policy-as-code in de publieke sector? Open een
 [discussion](https://github.com/security-commons-nl/.github/discussions) of een issue.
