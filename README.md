@@ -41,9 +41,9 @@ Kern, in lijn met de andere Commons-tools:
   andere direct overnemen. Publiek geld, publieke regels.
 
 ## Waar het aan raakt
-Dit staat niet los van wat er al is. `iamscan`, `blast-radius` en `security-posture-tool` produceren
-juist het soort feitelijke gegevens waar een policy-regel tegen kan toetsen; `procescheck` legt de
-processen en hun classificatie vast. Policy-as-code is de laag ertussen: de norm als code die
+Dit staat niet los van wat er al is. `iamscan` en `security-posture-tool` (straks samen
+`aanvalspaden/meting/`) produceren juist het soort feitelijke gegevens waar een policy-regel tegen kan
+toetsen; `procescheck` legt de processen, hun classificatie en de blast radius vast. Policy-as-code is de laag ertussen: de norm als code die
 de feiten toetst.
 
 ## Denkrichtingen (nog open)
